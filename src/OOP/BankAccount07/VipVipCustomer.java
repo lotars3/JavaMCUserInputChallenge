@@ -1,4 +1,4 @@
-package OOP.BankAccount;
+package OOP.BankAccount07;
 
 public class VipVipCustomer extends VipCustomer{
 

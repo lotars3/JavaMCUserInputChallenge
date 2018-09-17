@@ -1,4 +1,4 @@
-package CompositionChallenge;
+package CompositionChallenge08;
 
 public class Lamp{
     private String style;

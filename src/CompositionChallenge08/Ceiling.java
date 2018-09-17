@@ -1,4 +1,4 @@
-package CompositionChallenge;
+package CompositionChallenge08;
 
 public class Ceiling{
     private int height;

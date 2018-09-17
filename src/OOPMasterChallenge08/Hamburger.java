@@ -1,4 +1,4 @@
-package OOPMasterChallenge;
+package OOPMasterChallenge08;
 
 public class Hamburger{
     private String name;

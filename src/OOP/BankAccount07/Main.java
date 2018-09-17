@@ -1,4 +1,4 @@
-package OOP.BankAccount;
+package OOP.BankAccount07;
 
 public class Main{
     public static void main(String[] args) {
