@@ -6,7 +6,7 @@ import java.util.List;
 
 public class GroceryList{
 
-    private List<String> groceryList = new ArrayList<>();
+    private ArrayList<String> groceryList = new ArrayList<String>();
 
     public ArrayList<String> getGroceryList() {
         return groceryList;
